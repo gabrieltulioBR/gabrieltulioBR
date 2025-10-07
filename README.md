@@ -50,7 +50,7 @@ E estou **aprendendo outras** aos poucos para expandir meu conhecimento no mundo
   <a href="mailto:gabrieltulio3008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gab_rielfju/" target="_blank">
+  <a href="https://www.instagram.com/gabrieltulio60?" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/gabrieltulioabr" target="_blank">
