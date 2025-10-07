@@ -53,7 +53,7 @@ E estou **aprendendo outras** aos poucos para expandir meu conhecimento no mundo
   <a href="https://www.instagram.com/gabrieltulio60?" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/gabrieltulioabr" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-t%C3%BAlio-418016382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
