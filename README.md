@@ -9,7 +9,7 @@
 
 Sou estudante do **Ensino Médio com Técnico em Desenvolvimento de Sistemas** no **IFPE (1º período)**.  
 Apaixonado por tecnologia e sempre curioso para entender como tudo funciona.  
-Gosto de criar sites e pequenos sistemas, explorando tanto o **Back-end**.
+Gosto de criar sites e pequenos sistemas, explorando o **Back-end** por que eu odeio **front-end**
 
 > 🚀 Ainda no começo da jornada, mas com muita vontade de aprender e crescer na área da programação.
 
